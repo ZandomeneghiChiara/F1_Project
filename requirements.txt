@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn 
+seaborn 
+plotly 
+scikit-learn
+streamlit
+
+streamlit run f1_project_prog_streamlit.py
